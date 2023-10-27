@@ -1,0 +1,39 @@
+body {
+  background-color: #d1a76c;
+}
+
+h1 {
+  background-color: #c78801;
+}
+
+h2 {
+  background-color: #cd7800;
+}
+
+#pierwszy {
+  background-color: #ff8282;
+}
+
+#drugi {
+  background-color: rgb(120, 120, 255);
+}
+
+#podpunkt_1 {
+  color: rgb(202, 215, 21);
+}
+
+#podpunkt_2 {
+  color: rgb(131, 2, 2);
+}
+
+#podpunkt_3 {
+  color: rgb(50, 165, 242);
+}
+
+#podpunkt_4 {
+  color: rgb(89, 165, 42);
+}
+
+#podpunkt_5 {
+  color: rgb(159, 36, 97);
+}
